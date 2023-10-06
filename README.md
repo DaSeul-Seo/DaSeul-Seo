@@ -1,6 +1,9 @@
-### Hi there 👋
+<h1 align="left">Hi there!:wave: I'm Seo Da Seul</h1>
+<!-- <h3 align="left">I do SW/SR/Platform  Engineering things</h3> -->
 
+<br>
 
+<!--<h2 align="left">Tech</h2>-->
 
 
 <!--
