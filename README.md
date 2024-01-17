@@ -1,12 +1,50 @@
 <h1 align="left">Hi there!👋 I'm Seo Da Seul</h1>
 <!-- <h3 align="left">I do SW/SR/Platform  Engineering things</h3> -->
-
 <br>
 
-<!--<h2 align="left">Tech</h2>-->
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br/>
+![mariadb](https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+<br/>
+![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![apachemaven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
+![django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+<br/>
+![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=white)
+![apachehadoop](https://img.shields.io/badge/apachehadoop-66CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![apachehive](https://img.shields.io/badge/apachehive-FDEE21.svg?style=for-the-badge&logo=apachehive&logoColor=white)
+![apachespark](https://img.shields.io/badge/apachespark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+<br/>
+![git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# 🛠️ Used Tools:
+![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![eclipseide](https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+<br/>
+![microsoftsqlserver](https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![dbeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+<br/>
+![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DaSeul-Seo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaSeul-Seo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=DaSeul-Seo&theme=dark&hide_border=false)<br/> -->
 
 
 <!--
+# 💻 Tools:
 # 💻 Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,6 +61,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![apache](https://img.shields.io/badge/apache-D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DaSeul-Seo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -59,21 +98,6 @@
 </div>
 <br><br>
 ----1차----
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaSeul-Seo&layout=compact"><br><br>
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaSeul-Seo&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=DaSeul-Seo&show_icons=true">
-
-
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
 
 **DaSeul-Seo/DaSeul-Seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
