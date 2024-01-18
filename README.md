@@ -11,11 +11,11 @@
 ### Database
 ![mariadb](https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-### Framework
+<!-- ### Framework
 ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![apachemaven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
-![django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
 ### DevOps
 <!-- ![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white) -->
 ![redhat](https://img.shields.io/badge/redhat-EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
@@ -29,12 +29,12 @@
 ![apachehive](https://img.shields.io/badge/apachehive-FDEE21.svg?style=for-the-badge&logo=apachehive&logoColor=white)
 ![apachespark](https://img.shields.io/badge/apachespark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
 ### Others
-![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+<!-- ![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![opencv](https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![powerapps](https://img.shields.io/badge/powerapps-742774.svg?style=for-the-badge&logo=powerapps&logoColor=white)
-![thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white) -->
 ### 🛠️ IDEs and Tools
 ![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
