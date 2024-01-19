@@ -59,7 +59,12 @@
 
 </br>
 
-# 🔔 Other
+# 📖 Study
+- ### [DataEngineering_Study](https://github.com/DaSeul-Seo/DataEngineering_Study)
+
+</br>
+
+# 🔔 Other Detail
 - ### [Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beffa04c448d59a76567d70c36?pvs=4)
 
 
