@@ -1,6 +1,9 @@
 <h1 align="left">Hi there!👋 I'm Seo Da Seul</h1>
 <!-- <h3 align="left">I do SW/SR/Platform  Engineering things</h3> -->
 💡 The most basic things are the most important.
+For more information, please refer to the notion website in the profile.
+
+<!-- I am a developer whose goal is to develop with user convenience as more important than developer convenience. -->
 <br>
 
 ## ⭐ Project
