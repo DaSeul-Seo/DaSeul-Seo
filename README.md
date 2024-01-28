@@ -3,7 +3,28 @@
 -/-
 <br>
 
-# 💻 Tech Stack
+## ⭐ Project
+- ### [BabPool](https://github.com/DaSeul-Seo/Project)
+- ### [NotAlone](https://github.com/DaSeul-Seo/NotAlone)
+
+</br>
+
+## 💡 Contest
+- ### [제1회 국민대학교 AI빅데이터 분석 경진대회](https://github.com/DaSeul-Seo/Competition/tree/main/%EC%A0%9C1%ED%9A%8C%20%EA%B5%AD%EB%AF%BC%EB%8C%80%ED%95%99%EA%B5%90%20AI%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
+- ### [대구 교통사고 피해 예측 AI 경진대회](https://github.com/DaSeul-Seo/Competition/tree/main/%EB%8C%80%EA%B5%AC%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%ED%94%BC%ED%95%B4%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
+
+</br>
+
+## 📖 Study
+- ### [DataEngineering_Study](https://github.com/DaSeul-Seo/DataEngineering_Study)
+- ### [Algorithm](https://github.com/DaSeul-Seo/Algorithm)
+
+</br>
+
+<details>
+<summary># 💻 Tech Stack</summary>
+	
+<!-- # 💻 Tech Stack -->
 ### Languages
 ![C#](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-437291.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,25 +66,10 @@
 ![swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-</br>
-
-## ⭐ Project
-- ### [BabPool](https://github.com/DaSeul-Seo/Project)
-- ### [NotAlone](https://github.com/DaSeul-Seo/NotAlone)
+</details>
 
 </br>
 
-## 💡 Contest
-- ### [제1회 국민대학교 AI빅데이터 분석 경진대회](https://github.com/DaSeul-Seo/Competition/tree/main/%EC%A0%9C1%ED%9A%8C%20%EA%B5%AD%EB%AF%BC%EB%8C%80%ED%95%99%EA%B5%90%20AI%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
-- ### [대구 교통사고 피해 예측 AI 경진대회](https://github.com/DaSeul-Seo/Competition/tree/main/%EB%8C%80%EA%B5%AC%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%ED%94%BC%ED%95%B4%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
-
-</br>
-
-## 📖 Study
-- ### [DataEngineering_Study](https://github.com/DaSeul-Seo/DataEngineering_Study)
-- ### [Algorithm](https://github.com/DaSeul-Seo/Algorithm)
-
-</br>
 
 <!--
 ## 🔔 Other Detail
