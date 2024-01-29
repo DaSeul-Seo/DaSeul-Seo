@@ -7,35 +7,35 @@ For more information, please refer to the notion website in the profile.
 <br>
 
 ## ⭐ Project
-- ### [BabPool](https://github.com/DaSeul-Seo/Project)
-- ### [NotAlone](https://github.com/DaSeul-Seo/NotAlone)
+- [BabPool](https://github.com/DaSeul-Seo/Project)
+- [NotAlone](https://github.com/DaSeul-Seo/NotAlone)
 
 </br>
 
 ## 💡 Contest
-- ### [제1회 국민대학교 AI빅데이터 분석 경진대회](https://github.com/DaSeul-Seo/Competition/tree/main/%EC%A0%9C1%ED%9A%8C%20%EA%B5%AD%EB%AF%BC%EB%8C%80%ED%95%99%EA%B5%90%20AI%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
-- ### [대구 교통사고 피해 예측 AI 경진대회](https://github.com/DaSeul-Seo/Competition/tree/main/%EB%8C%80%EA%B5%AC%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%ED%94%BC%ED%95%B4%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
+- [제1회 국민대학교 AI빅데이터 분석 경진대회](https://github.com/DaSeul-Seo/Competition/tree/main/%EC%A0%9C1%ED%9A%8C%20%EA%B5%AD%EB%AF%BC%EB%8C%80%ED%95%99%EA%B5%90%20AI%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
+- [대구 교통사고 피해 예측 AI 경진대회](https://github.com/DaSeul-Seo/Competition/tree/main/%EB%8C%80%EA%B5%AC%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%ED%94%BC%ED%95%B4%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
 
 </br>
 
 ## 📖 Study
-- ### [DataEngineering_Study](https://github.com/DaSeul-Seo/DataEngineering_Study)
-- ### [Algorithm](https://github.com/DaSeul-Seo/Algorithm)
+- [DataEngineering_Study](https://github.com/DaSeul-Seo/DataEngineering_Study)
+- [Algorithm](https://github.com/DaSeul-Seo/Algorithm)
 
 ## Notion
-- ### [Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beffa04c448d59a76567d70c36?pvs=4)
+- [Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beffa04c448d59a76567d70c36?pvs=4)
 
 </br>
 
 <details>
-<summary># 💻 Tech Stack</summary>
+<summary>💻 Tech Stack</summary>
 	
 <!-- # 💻 Tech Stack -->
-### Languages
+#### Languages
 ![C#](https://img.shields.io/badge/csharp-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-437291.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-### Database
+#### Database
 ![mariadb](https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 <!-- ### Framework
@@ -43,7 +43,7 @@ For more information, please refer to the notion website in the profile.
 ![apachemaven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
-### DevOps
+#### DevOps
 <!-- ![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white) -->
 ![redhat](https://img.shields.io/badge/redhat-EE0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -51,18 +51,18 @@ For more information, please refer to the notion website in the profile.
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?style=for-the-badge&logo=apachetomcat&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-### Analysis
+#### Analysis
 ![apachehadoop](https://img.shields.io/badge/apachehadoop-66CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=white)
 ![apachehive](https://img.shields.io/badge/apachehive-FDEE21.svg?style=for-the-badge&logo=apachehive&logoColor=white)
 ![apachespark](https://img.shields.io/badge/apachespark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-### Others
-<!-- ![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+<!-- #### Others
+![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![opencv](https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![powerapps](https://img.shields.io/badge/powerapps-742774.svg?style=for-the-badge&logo=powerapps&logoColor=white)
 ![thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white) -->
-### 🛠️ IDEs and Tools
+#### 🛠️ IDEs and Tools
 ![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
