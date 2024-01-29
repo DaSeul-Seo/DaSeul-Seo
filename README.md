@@ -22,10 +22,10 @@ For more information, please refer to the notion website in the profile.
 - [DataEngineering_Study](https://github.com/DaSeul-Seo/DataEngineering_Study)
 - [Algorithm](https://github.com/DaSeul-Seo/Algorithm)
 
+</br>
+
 ## Notion
 - [Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beffa04c448d59a76567d70c36?pvs=4)
-
-</br>
 
 <details>
 <summary>💻 Tech Stack</summary>
