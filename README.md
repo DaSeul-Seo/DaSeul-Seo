@@ -28,8 +28,8 @@ For more information, please refer to the notion website in the profile.
 🍀 [BabPool 프로젝트 상세설명](https://github.com/DaSeul-Seo/Project)
 
 ### 2. NotAlone
-매장운영 및 POS 시스템을 온라인으로 통합
-- 개발기간 : 2020.09.13 - 2020.10.13
+머신러닝을 활용한 쇼핑몰 사이트
+- 개발기간 : 2023.12.14 - 202312.20
 - Back-end
   - Language : Java, Python
   - Skill : Spring, JPA
