@@ -73,33 +73,44 @@ Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beff
 ![C#](https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-437291.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
 #### Database
 ![mariadb](https://img.shields.io/badge/mariadb-003545.svg?style=flat-square&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white)
-<!-- ### Framework
-![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![apachemaven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![gradle](https://img.shields.io/badge/gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
-![django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white) -->
-#### DevOps
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=springboot&logoColor=white)
+
+#### Framework & Library
+![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
+![apachemaven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat-square&logo=apachemaven&logoColor=white)
+![gradle](https://img.shields.io/badge/gradle-02303A.svg?style=flat-square&logo=gradle&logoColor=white)
+![django](https://img.shields.io/badge/django-092E20.svg?style=flat-square&logo=django&logoColor=white)
+![opencv](https://img.shields.io/badge/opencv-5C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=opencv&logoColor=white)
+
+#### DevOps & MLOps
 <!-- ![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white) -->
 ![redhat](https://img.shields.io/badge/redhat-EE0000.svg?style=flat-square&logo=redhat&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=flat-square&logo=opencv&logoColor=white)
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?style=flat-square&logo=apachetomcat&logoColor=white)
+![AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white)
-#### Analysis
+
+#### Data & Analysis
 ![apachehadoop](https://img.shields.io/badge/apachehadoop-66CCFF.svg?style=flat-square&logo=apachehadoop&logoColor=white)
 ![apachehive](https://img.shields.io/badge/apachehive-FDEE21.svg?style=flat-square&logo=apachehive&logoColor=white)
 ![apachespark](https://img.shields.io/badge/apachespark-E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white)
+
 <!-- #### Others
 ![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![opencv](https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
 ![powerapps](https://img.shields.io/badge/powerapps-742774.svg?style=for-the-badge&logo=powerapps&logoColor=white)
 ![thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white) -->
+
 #### 🛠️ IDEs and Tools
 ![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -110,15 +121,10 @@ Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beff
 ![swagger](https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
+
 <!-- </details> -->
 
 </br>
-
-
-<!--
-## 🔔 Other Detail
-- ### [Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beffa04c448d59a76567d70c36?pvs=4)
--->
 
 #
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaSeul-Seo&count_bg=%233D96C8&title_bg=%23555555&icon=reverbnation.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
