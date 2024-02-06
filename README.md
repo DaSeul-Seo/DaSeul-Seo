@@ -10,7 +10,8 @@ For more information, please refer to the notion website in the profile.
 ### 1. BabPool
 매장운영 및 POS 시스템을 온라인으로 통합
 - 개발기간 : 2020.09.13 - 2020.10.13
-- Back-end
+- 대표스택 : Java, Spring
+<!-- - Back-end
   - Language : Java
   - Skill : Spring, MyBaits
   - Server : Apache Tomcat
@@ -23,14 +24,15 @@ For more information, please refer to the notion website in the profile.
 - App
   - Android Studio
 - 형상관리
-  - git
+  - git -->
 
 🍀 [BabPool 프로젝트 상세설명](https://github.com/DaSeul-Seo/Project)
 
 ### 2. NotAlone
 머신러닝을 활용한 쇼핑몰 사이트
 - 개발기간 : 2023.12.14 - 2023.12.20
-- Back-end
+- 대표스택 : Java, ML - Python
+<!-- - Back-end
   - Language : Java, Python
   - Skill : Spring, JPA
   - Server : Apache Tomcat
@@ -40,7 +42,7 @@ For more information, please refer to the notion website in the profile.
 - DB
   - MySQL
 - 형상관리
-  - git
+  - git -->
 
 🍀 [NotAlone 프로젝트 상세설명](https://github.com/DaSeul-Seo/NotAlone)
 
