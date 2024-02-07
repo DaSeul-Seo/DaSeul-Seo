@@ -46,6 +46,13 @@ For more information, please refer to the notion website in the profile.
 
 🍀 [NotAlone 프로젝트 상세설명](https://github.com/DaSeul-Seo/NotAlone)
 
+### 3. Port:4045
+딥러닝을 활용한 음식사진 분류
+- 개발기간 : 2024.01.23 - 2024.01.26
+- 대표스택 : Python, Yolov8, AWS
+
+🍀 [Port:4045 프로젝트 상세설명](https://github.com/Port8090/Port4045)
+
 </br>
 
 # 💡 Contest
