@@ -66,7 +66,8 @@ For more information, please refer to the notion website in the profile.
   - [Algorithm](https://github.com/DaSeul-Seo/Algorithm)<br/>
 - 경진대회 : [DACON](https://dacon.io/myprofile/488742/home)<br/>
 - 교육 정리 : [DataEngineering_Study](https://github.com/DaSeul-Seo/DataEngineering_Study)<br/>
-- 개인 공부 정리 : [Byseul-Dictionary](https://github.com/DaSeul-Seo/Byseul-Dictionary)<br/>
+- 개인 공부 정리 : Byseul-Dictionary
+<!-- [Byseul-Dictionary](https://github.com/DaSeul-Seo/Byseul-Dictionary)<br/> -->
 
 </br>
 
