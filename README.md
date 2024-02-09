@@ -1,10 +1,9 @@
 <h1 align="left">Hi there!👋 I'm Seo Da Seul</h1>
-<!-- <h3 align="left">I do SW/SR/Platform  Engineering things</h3> -->
 💡 The most basic things are the most important. </br>
+I am a developer whose goal is to develop with user convenience as more important than developer convenience.</br>
 For more information, please refer to the notion website in the profile.
 
 </br>
-<!-- I am a developer whose goal is to develop with user convenience as more important than developer convenience. -->
 
 # 📝Projects
 ### 1. BabPool
@@ -62,8 +61,11 @@ For more information, please refer to the notion website in the profile.
 </br>
 
 # 📖 Study
-- [DataEngineering_Study](https://github.com/DaSeul-Seo/DataEngineering_Study)
-- [Algorithm](https://github.com/DaSeul-Seo/Algorithm)
+- [Solved.ac Profile](https://solved.ac/profile/didznal3)<br/>
+- [Algorithm](https://github.com/DaSeul-Seo/Algorithm)<br/>
+- [DACON](https://dacon.io/myprofile/488742/home)<br/>
+- [DataEngineering_Study](https://github.com/DaSeul-Seo/DataEngineering_Study)<br/>
+- [Byseul-Dictionary](https://github.com/DaSeul-Seo/Byseul-Dictionary)<br/>
 
 </br>
 
