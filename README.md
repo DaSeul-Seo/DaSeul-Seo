@@ -76,9 +76,6 @@ For more information, please refer to the notion website in the profile.
 Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beffa04c448d59a76567d70c36?pvs=4) </br>
 깃허브 : [DaSeul-Seo](https://github.com/DaSeul-Seo)
 
-<!-- <details>
-<summary>💻 Tech Stack</summary> -->
-
 </br>
 
 # 💻 Tech Stack
@@ -135,10 +132,8 @@ Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beff
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 
-<!-- </details> -->
-
 ---
-[![](https://visitcount.itsvg.in/api?id=DaSeul-Seo&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)</br>
+
 
 
 <!-- #
