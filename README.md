@@ -133,7 +133,7 @@ Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beff
 
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=DaSeul-Seo&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!-- #
