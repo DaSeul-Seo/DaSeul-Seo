@@ -6,26 +6,12 @@ For more information, please refer to the notion website in the profile.
 </br>
 
 # 📝Projects
-### 1. BabPool
-매장운영 및 POS 시스템을 온라인으로 통합
-- 개발기간 : 2020.09.13 - 2020.10.13
-- 대표스택 : Java, Spring
-<!-- - Back-end
-  - Language : Java
-  - Skill : Spring, MyBaits
-  - Server : Apache Tomcat
-  - Tool : Eclipse, VisualStudioCode
-- Front-end
-  - Language : JavaScript
-  - Skill : jQuery
-- DB
-  - Oracle11
-- App
-  - Android Studio
-- 형상관리
-  - git -->
+### 1. Port:4045
+딥러닝을 활용한 음식사진 분류
+- 개발기간 : 2024.01.23 - 2024.01.26
+- 대표스택 : Python, Yolov8, AWS
 
-🍀 [BabPool 프로젝트 상세설명](https://github.com/DaSeul-Seo/Project)
+🍀 [Port:4045 프로젝트 시연영상 및 상세설명](https://github.com/Port8090/Port4045)
 
 ### 2. NotAlone
 머신러닝을 활용한 쇼핑몰 사이트
@@ -45,12 +31,26 @@ For more information, please refer to the notion website in the profile.
 
 🍀 [NotAlone 프로젝트 시연영상 및 상세설명](https://github.com/DaSeul-Seo/NotAlone)
 
-### 3. Port:4045
-딥러닝을 활용한 음식사진 분류
-- 개발기간 : 2024.01.23 - 2024.01.26
-- 대표스택 : Python, Yolov8, AWS
+### 3. BabPool
+매장운영 및 POS 시스템을 온라인으로 통합
+- 개발기간 : 2020.09.13 - 2020.10.13
+- 대표스택 : Java, Spring
+<!-- - Back-end
+  - Language : Java
+  - Skill : Spring, MyBaits
+  - Server : Apache Tomcat
+  - Tool : Eclipse, VisualStudioCode
+- Front-end
+  - Language : JavaScript
+  - Skill : jQuery
+- DB
+  - Oracle11
+- App
+  - Android Studio
+- 형상관리
+  - git -->
 
-🍀 [Port:4045 프로젝트 시연영상 및 상세설명](https://github.com/Port8090/Port4045)
+🍀 [BabPool 프로젝트 상세설명](https://github.com/DaSeul-Seo/Project)
 
 </br>
 
