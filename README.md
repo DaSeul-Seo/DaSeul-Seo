@@ -6,14 +6,21 @@ For more information, please refer to the notion website in the profile.
 </br>
 
 # 📝Projects
-### 1. Port:4045
+### 1. Mealddang
+AI를 이용한 식단관리 및 맛집 추천 서비스
+- 개발기간 : 2024.02.19 - 2024.03.22
+- 대표스택 : Java, Python, Yolov3, AWS
+
+🍀 [Mealddang 프로젝트 시연영상 및 상세설명](https://github.com/DaSeul-Seo/Mealddang)
+
+### 2. Port:4045
 딥러닝을 활용한 음식사진 분류
 - 개발기간 : 2024.01.23 - 2024.01.26
 - 대표스택 : Python, Yolov8, AWS
 
-🍀 [Port:4045 프로젝트 시연영상 및 상세설명](https://github.com/Port8090/Port4045)
+🍀 [Port:4045 프로젝트 시연영상 및 상세설명](https://github.com/DaSeul-Seo/Port4045/tree/main)
 
-### 2. NotAlone
+### 3. NotAlone
 머신러닝을 활용한 쇼핑몰 사이트
 - 개발기간 : 2023.12.14 - 2023.12.20
 - 대표스택 : Java, ML - Python
@@ -31,7 +38,7 @@ For more information, please refer to the notion website in the profile.
 
 🍀 [NotAlone 프로젝트 시연영상 및 상세설명](https://github.com/DaSeul-Seo/NotAlone)
 
-### 3. BabPool
+### 4. BabPool
 매장운영 및 POS 시스템을 온라인으로 통합
 - 개발기간 : 2020.09.13 - 2020.10.13
 - 대표스택 : Java, Spring
@@ -57,6 +64,7 @@ For more information, please refer to the notion website in the profile.
 # 💡 Contest
 - [제1회 국민대학교 AI빅데이터 분석 경진대회](https://github.com/DaSeul-Seo/Competition/tree/main/%EC%A0%9C1%ED%9A%8C%20%EA%B5%AD%EB%AF%BC%EB%8C%80%ED%95%99%EA%B5%90%20AI%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
 - [대구 교통사고 피해 예측 AI 경진대회](https://github.com/DaSeul-Seo/Competition/tree/main/%EB%8C%80%EA%B5%AC%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%ED%94%BC%ED%95%B4%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
+
 
 </br>
 
