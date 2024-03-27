@@ -102,7 +102,6 @@ Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beff
 ![gradle](https://img.shields.io/badge/gradle-02303A.svg?style=flat-square&logo=gradle&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![opencv](https://img.shields.io/badge/opencv-5C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=opencv&logoColor=white)
 
 #### DevOps & MLOps
 <!-- ![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white) 
@@ -116,6 +115,7 @@ Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beff
 ![github](https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white)
 
 #### Data & Analysis
+![pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=opencv&logoColor=white)
 ![apachehadoop](https://img.shields.io/badge/apachehadoop-66CCFF.svg?style=flat-square&logo=apachehadoop&logoColor=white)
 ![apachehive](https://img.shields.io/badge/apachehive-FDEE21.svg?style=flat-square&logo=apachehive&logoColor=white)
 ![apachespark](https://img.shields.io/badge/apachespark-E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white)
@@ -128,7 +128,7 @@ Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beff
 ![powerapps](https://img.shields.io/badge/powerapps-742774.svg?style=for-the-badge&logo=powerapps&logoColor=white)
 ![thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white) -->
 
-#### 🛠️ IDEs and Tools
+#### 🛠️ IDEs & Tools
 ![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
