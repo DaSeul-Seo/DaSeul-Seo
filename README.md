@@ -113,6 +113,8 @@ AI를 이용한 식단관리 및 맛집 추천 서비스
   </tbody>
 </table>
 
+</br>
+
 # 📖 Study
 - Baekjoon
   - [Algorithm](https://github.com/DaSeul-Seo/Algorithm)<br/>
