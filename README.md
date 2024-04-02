@@ -86,7 +86,76 @@ Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beff
 </br>
 
 # 💻 Tech Stack
-#### Languages
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <b>Languages</b>
+      </td>
+      <td>
+        <b>Database</b>
+      </td>
+      <td>
+        <b>Framework & Library</b>
+      </td>
+      <td>
+        <b>DevOps & MLOps</b>
+      </td>
+      <td>
+        <b>Data & Analysis</b>
+      </td>
+      <td>
+        <b>🛠️IDEs & Tools</b>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/java-437291.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/mariadb-003545.svg?style=flat-square&logo=mariadb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=springboot&logoColor=white"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat-square&logo=apachemaven&logoColor=white"/>
+        <img src="https://img.shields.io/badge/gradle-02303A.svg?style=flat-square&logo=gradle&logoColor=white"/>
+        <img src="https://img.shields.io/badge/django-092E20.svg?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=flat-square&logo=opencv&logoColor=white"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/redhat-EE0000.svg?style=flat-square&logo=redhat&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=flat-square&logo=ubuntu&logoColor=white"/>
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/apachetomcat-F8DC75.svg?style=flat-square&logo=apachetomcat&logoColor=white"/>
+        <img src="https://img.shields.io/badge/amazonaws-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/apachehadoop-66CCFF.svg?style=flat-square&logo=apachehadoop&logoColor=white"/>
+        <img src="https://img.shields.io/badge/apachehive-FDEE21.svg?style=flat-square&logo=apachehive&logoColor=white"/>
+        <img src="https://img.shields.io/badge/apachespark-E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+        <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
+        <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
+        <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- #### Languages
 ![C#](https://img.shields.io/badge/csharp-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-437291.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -101,24 +170,24 @@ Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beff
 ![apachemaven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=flat-square&logo=apachemaven&logoColor=white)
 ![gradle](https://img.shields.io/badge/gradle-02303A.svg?style=flat-square&logo=gradle&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?style=flat-square&logo=django&logoColor=white)
-![opencv](https://img.shields.io/badge/opencv-5C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
+![opencv](https://img.shields.io/badge/opencv-5C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) -->
 
-#### DevOps & MLOps
+<!-- #### DevOps & MLOps -->
 <!-- ![linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white) 
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=flat-square&logo=opencv&logoColor=white) -->
-![redhat](https://img.shields.io/badge/redhat-EE0000.svg?style=flat-square&logo=redhat&logoColor=white)
+<!-- ![redhat](https://img.shields.io/badge/redhat-EE0000.svg?style=flat-square&logo=redhat&logoColor=white)
 ![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=flat-square&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75.svg?style=flat-square&logo=apachetomcat&logoColor=white)
 ![AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?style=flat-square&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white)
+![github](https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white) -->
 
-#### Data & Analysis
+<!-- #### Data & Analysis
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=opencv&logoColor=white)
 ![apachehadoop](https://img.shields.io/badge/apachehadoop-66CCFF.svg?style=flat-square&logo=apachehadoop&logoColor=white)
 ![apachehive](https://img.shields.io/badge/apachehive-FDEE21.svg?style=flat-square&logo=apachehive&logoColor=white)
-![apachespark](https://img.shields.io/badge/apachespark-E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white)
+![apachespark](https://img.shields.io/badge/apachespark-E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white) -->
 
 <!-- #### Others
 ![googlecolab](https://img.shields.io/badge/googlecolab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
@@ -128,7 +197,7 @@ Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beff
 ![powerapps](https://img.shields.io/badge/powerapps-742774.svg?style=for-the-badge&logo=powerapps&logoColor=white)
 ![thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white) -->
 
-#### 🛠️ IDEs & Tools
+<!-- #### 🛠️ IDEs & Tools
 ![visualstudio](https://img.shields.io/badge/visualstudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![eclipseide](https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
@@ -136,7 +205,7 @@ Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beff
 ![dbeaver](https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
 ![postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![swagger](https://img.shields.io/badge/swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
-![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![jupyter](https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) -->
 
 
 ---
