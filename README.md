@@ -126,7 +126,7 @@ AI를 이용한 식단관리 및 맛집 추천 서비스
 
 # 📞 Contact
 이메일 : star.dss999@gmail.com </br>
-블로그 : [Byseul](https://byseul.tistory.com/)
+블로그 : [Byseul](https://byseul.tistory.com/) </br>
 Notion : [SeoDaSeul_Notion](https://seodaseul.notion.site/Seo-Da-Seul-53b2f1beffa04c448d59a76567d70c36?pvs=4) </br>
 깃허브 : [DaSeul-Seo](https://github.com/DaSeul-Seo) </br>
 
