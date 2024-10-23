@@ -40,6 +40,8 @@ AI를 이용한 식단관리 및 맛집 추천 서비스
 - [제1회 국민대학교 AI빅데이터 분석 경진대회](https://github.com/DaSeul-Seo/Contest/tree/main/%5B2023.10%5D%20%EC%A0%9C1%ED%9A%8C%20%EA%B5%AD%EB%AF%BC%EB%8C%80%ED%95%99%EA%B5%90%20AI%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
 - [대구 교통사고 피해 예측 AI 경진대회](https://github.com/DaSeul-Seo/Contest/tree/main/%5B2023.11%5D%20%EB%8C%80%EA%B5%AC%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%ED%94%BC%ED%95%B4%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
 - [한솔데코 시즌2 AI 경진대회](https://github.com/DaSeul-Seo/Contest/tree/main/%5B2024.03%5D%20%ED%95%9C%EC%86%94%EB%8D%B0%EC%BD%94%20%EC%8B%9C%EC%A6%8C2%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
+- [새싹 해커톤](https://github.com/DaSeul-Seo/Contest/tree/main/%5B2024.06%5D%20%EC%83%88%EC%8B%B9%20%ED%95%B4%EC%BB%A4%ED%86%A4)
+- [🏅 제 6회 대구광역시 빅데이터 분석 경진대회 🏅](https://github.com/DaSeul-Seo/Contest/tree/main/%5B2024.06%5D%20%EC%A0%9C%206%ED%9A%8C%20%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)
 
 </br>
 
